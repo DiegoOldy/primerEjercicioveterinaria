@@ -1,0 +1,40 @@
+*{
+ padding: 12px;
+ margin: 0px;
+}
+
+html{
+    background: #1C6EA4;
+    background: -moz-linear-gradient(-45deg, #1C6EA4 0%, #2388CB 23%, #144E75 100%);
+    background: -webkit-linear-gradient(-45deg, #1C6EA4 0%, #2388CB 23%, #144E75 100%);
+    background: linear-gradient(135deg, #1C6EA4 0%, #2388CB 23%, #144E75 100%);
+
+}
+a.menu{
+    float:right;
+}
+div#container{
+    font-family: cursive
+}
+
+.presentacion{
+    padding: 20px;
+   
+}
+body{
+    width: 800px;
+    height: 600px;
+   
+}
+img{ width: 150px;
+height: 200px;
+}
+
+
+
+footer img{
+
+width: 40px;
+height: 40px; ;
+
+}
